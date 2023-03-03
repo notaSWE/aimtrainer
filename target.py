@@ -16,3 +16,11 @@ class Target(pygame.sprite.Sprite):
         if self.rect.collidepoint(x, y):
             self.hit_channel.play(self.hit_sound)
             self.kill()
+
+# TO DO: Add FriendlyTarget class
+class FriendlyTarget(pygame.sprite.Sprite):
+    def __init__(self, x, y, *groups):
+        pass
+    
+    def update(self):
+        pass
