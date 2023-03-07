@@ -12,4 +12,4 @@ Simple Aim Trainer using Python/Pygame
 
 Video demo with sound effects to drive it home:
 
-<video src='https://notaswe-blog-posts.s3.amazonaws.com/2023_03_06_aimbot01.mp4' width=960/>
+<video src='https://notaswe-blog-posts.s3.amazonaws.com/2023_03_06_aimbot01.mp4' width=960></video>
