@@ -12,7 +12,4 @@ Simple Aim Trainer using Python/Pygame
 
 Video demo with sound effects to drive it home:
 
-<video controls>
-  <source src="https://notaswe-blog-posts.s3.amazonaws.com/2023_03_06_aimbot01.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<video src='https://notaswe-blog-posts.s3.amazonaws.com/2023_03_06_aimbot01.mp4' width=960/>
